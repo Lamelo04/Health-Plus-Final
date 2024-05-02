@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Health-Plus/static/css/main.b99695e0.css",
+    "main.js": "/Health-Plus/static/js/main.5adcf5a9.js",
+    "static/media/profile-2.png": "/Health-Plus/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/profile-1.png": "/Health-Plus/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/profile-3.png": "/Health-Plus/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/Health-Plus/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/Health-Plus/static/media/profile-4.3c44185ab9c84614038f.png",
+    "static/media/1708974272674.jpeg": "/Health-Plus/static/media/1708974272674.d243282836bcdfed2d4b.jpeg",
+    "static/media/pharmaceutical-regulations-in-Tunisia_Hero.jpg": "/Health-Plus/static/media/pharmaceutical-regulations-in-Tunisia_Hero.ce8a42c906c8ea8d472e.jpg",
+    "index.html": "/Health-Plus/index.html",
+    "main.b99695e0.css.map": "/Health-Plus/static/css/main.b99695e0.css.map",
+    "main.5adcf5a9.js.map": "/Health-Plus/static/js/main.5adcf5a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b99695e0.css",
+    "static/js/main.5adcf5a9.js"
+  ]
+}
